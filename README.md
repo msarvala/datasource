@@ -1,7 +1,7 @@
 # datasource
 Spring Boot on Docker with multiple data sources
 
-to star the app with multiple datasource star app using 
+to start the app with multiple data sources run below command
 
 ./compose.sh from teh root director
 
